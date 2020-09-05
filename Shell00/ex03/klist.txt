@@ -1,0 +1,5 @@
+Credentials cache: API:CF21C7BB-58BC-4C21-954E-22A92BE20666
+        Principal: aarlena@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Aug 10 18:39:20 2020  Aug 11 04:39:20 2020  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
